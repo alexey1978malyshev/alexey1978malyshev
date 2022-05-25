@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexey
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java, SQL, WEB
 - 💞️ I want to cooperate in the field of software development
 - 📫 How to reach me alexey1978malyshev@gmail.com
 
